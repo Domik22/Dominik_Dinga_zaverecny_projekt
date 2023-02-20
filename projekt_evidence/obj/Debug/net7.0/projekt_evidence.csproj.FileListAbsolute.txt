@@ -1,0 +1,15 @@
+C:\Users\dinga\Dropbox\projekt\projekt_evidence\projekt_evidence\obj\Debug\net7.0\projekt_evidence.csproj.AssemblyReference.cache
+C:\Users\dinga\Dropbox\projekt\projekt_evidence\projekt_evidence\obj\Debug\net7.0\projekt_evidence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinga\Dropbox\projekt\projekt_evidence\projekt_evidence\obj\Debug\net7.0\projekt_evidence.AssemblyInfoInputs.cache
+C:\Users\dinga\Dropbox\projekt\projekt_evidence\projekt_evidence\obj\Debug\net7.0\projekt_evidence.AssemblyInfo.cs
+C:\Users\dinga\Dropbox\projekt\projekt_evidence\projekt_evidence\obj\Debug\net7.0\projekt_evidence.csproj.CoreCompileInputs.cache
+C:\Users\dinga\Dropbox\projekt\projekt_evidence\projekt_evidence\bin\Debug\net7.0\projekt_evidence.exe
+C:\Users\dinga\Dropbox\projekt\projekt_evidence\projekt_evidence\bin\Debug\net7.0\projekt_evidence.deps.json
+C:\Users\dinga\Dropbox\projekt\projekt_evidence\projekt_evidence\bin\Debug\net7.0\projekt_evidence.runtimeconfig.json
+C:\Users\dinga\Dropbox\projekt\projekt_evidence\projekt_evidence\bin\Debug\net7.0\projekt_evidence.dll
+C:\Users\dinga\Dropbox\projekt\projekt_evidence\projekt_evidence\bin\Debug\net7.0\projekt_evidence.pdb
+C:\Users\dinga\Dropbox\projekt\projekt_evidence\projekt_evidence\obj\Debug\net7.0\projekt_evidence.dll
+C:\Users\dinga\Dropbox\projekt\projekt_evidence\projekt_evidence\obj\Debug\net7.0\refint\projekt_evidence.dll
+C:\Users\dinga\Dropbox\projekt\projekt_evidence\projekt_evidence\obj\Debug\net7.0\projekt_evidence.pdb
+C:\Users\dinga\Dropbox\projekt\projekt_evidence\projekt_evidence\obj\Debug\net7.0\projekt_evidence.genruntimeconfig.cache
+C:\Users\dinga\Dropbox\projekt\projekt_evidence\projekt_evidence\obj\Debug\net7.0\ref\projekt_evidence.dll
